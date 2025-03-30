@@ -30,7 +30,7 @@ The dataset contains images of various plant leaves categorized into healthy and
 ## **🔧 Installation**
 
 Clone the repository:  
-git clone https://github.com/yourusername/plant-disease-detection.git
+```git clone https://github.com/yourusername/plant-disease-detection.git```
 
 1. cd plant-disease-detection  
 2. Install required dependencies:  
